@@ -1,7 +1,17 @@
-body{
-    background: black
+* {
+  margin: 0;
+  padding: 0;
 }
 
-h1{
-    color: white
+body {
+  background: black;
+  height: 100vh;
+  display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  height: 420px;
 }
